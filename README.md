@@ -1,8 +1,8 @@
-[![MareMare's GitHub stats](https://github-readme-stats.vercel.app/api?username=MareMare&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![MareMare's GitHub stats](https://github-readme-stats.vercel.app/api?username=MareMare&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MareMare&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Metrics](https://metrics.lecoq.io/MareMare?template=classic&achievements=1&discussions=1&notable=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&discussions.categories=true&discussions.categories.limit=0&config.timezone=Etc%2FGMT-9)
+![Metrics](https://metrics.lecoq.io/MareMare?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&achievements=1&notable=1&introduction=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=all&notable.repositories=false&notable.indepth=false&notable.types=commit&introduction.title=true&config.timezone=JST)
 
 ### Hi there 👋
 
