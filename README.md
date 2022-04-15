@@ -1,3 +1,5 @@
+![Metrics](https://metrics.lecoq.io/MareMare?template=classic&achievements=1&discussions=1&notable=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&discussions.categories=true&discussions.categories.limit=0&config.timezone=Etc%2FGMT-9)
+
 ### Hi there 👋
 
 <!--
