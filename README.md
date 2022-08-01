@@ -1,12 +1,12 @@
-[![MareMare's GitHub stats](https://github-readme-stats.vercel.app/api?username=MareMare&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![MareMare's GitHub stats](https://github-readme-stats.vercel.app/api?username=MareMare&theme=github_dark&count_private=true&show_icons=true)](https://github.com/MareMare)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MareMare&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MareMare&theme=github_dark&layout=compact&langs_count=10)](https://github.com/MareMare)
 
-![Metrics](https://metrics.lecoq.io/MareMare?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&achievements=1&notable=1&introduction=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=all&notable.repositories=false&notable.indepth=false&notable.types=commit&introduction.title=true&config.timezone=JST)
-
-### Hi there 👋
+[![Metrics](https://metrics.lecoq.io/MareMare?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&achievements=1&followup=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&followup.archived=true&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FTokyo)](https://github.com/MareMare)
 
 <!--
+### Hi there 👋
+
 **MareMare/MareMare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
@@ -20,8 +20,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+### Hi there 👋
+
 - 👋 Hi, I’m @MareMare
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+-->
