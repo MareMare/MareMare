@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MareMare&theme=github_dark&layout=compact&langs_count=10)](https://github.com/MareMare)
 
-[![Metrics](https://metrics.lecoq.io/MareMare?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&achievements=1&followup=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&followup.archived=true&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FTokyo)](https://github.com/MareMare)
+[![Metrics](https://metrics.lecoq.io/MareMare?template=classic&base.header=0&base.activity=0&base.community=0&followup=1&achievements=1&base.indepth=false&base.hireable=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FTokyo)](https://github.com/MareMare)
 
 <!--
 ### Hi there 👋
