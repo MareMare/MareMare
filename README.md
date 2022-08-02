@@ -1,10 +1,16 @@
+### Hi there 👋
+
 [![MareMare's GitHub stats](https://github-readme-stats.vercel.app/api?username=MareMare&theme=github_dark&count_private=true&show_icons=true)](https://github.com/MareMare)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MareMare&theme=github_dark&layout=compact&langs_count=10)](https://github.com/MareMare)
 
-[![Metrics](https://metrics.lecoq.io/MareMare?template=classic&base.header=0&base.activity=0&base.community=0&followup=1&achievements=1&base.indepth=false&base.hireable=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FTokyo)](https://github.com/MareMare)
+![📊 Metrics](/github-metrics.svg)
 
 <!--
+[![Metrics](https://metrics.lecoq.io/MareMare?template=classic&base.header=0&base.activity=0&base.community=0&followup=1&achievements=1&base.indepth=false&base.hireable=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FTokyo)](https://github.com/MareMare)
+-->
+
+<!-- 📊
 ### Hi there 👋
 
 **MareMare/MareMare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

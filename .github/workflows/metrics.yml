@@ -1,6 +1,6 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
 # and https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md
-name: Metrics
+name: 📊 Metrics
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
@@ -13,7 +13,8 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: 📊 GitHub Metrics.
+        uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           # The following scopes are required:
