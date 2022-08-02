@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![MareMare's GitHub stats](https://github-readme-stats.vercel.app/api?username=MareMare&theme=github_dark&count_private=true&show_icons=true)](https://github.com/MareMare)
+[![MareMare's GitHub stats](https://github-readme-stats.vercel.app/api?username=MareMare&theme=github_dark&count_private=true&show_icons=true&hide=stars,contribs)](https://github.com/MareMare)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MareMare&theme=github_dark&layout=compact&langs_count=10)](https://github.com/MareMare)
 
