@@ -6,10 +6,6 @@
 
 [![📊 Metrics](/github-metrics.svg)](https://metrics.lecoq.io)
 
-<!--
-[![Metrics](https://metrics.lecoq.io/MareMare?template=classic&base.header=0&base.activity=0&base.community=0&followup=1&achievements=1&base.indepth=false&base.hireable=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FTokyo)](https://github.com/MareMare)
--->
-
 <!-- 📊
 ### Hi there 👋
 
