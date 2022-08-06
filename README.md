@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=MareMare)
+<!-- ![](https://komarev.com/ghpvc/?username=MareMare) -->
 
 [![MareMare's GitHub stats](https://github-readme-stats.vercel.app/api?username=MareMare&theme=github_dark&cache_seconds=7200&count_private=true&show_icons=true&hide=stars,contribs)](https://github.com/MareMare)
 
