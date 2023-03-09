@@ -21,7 +21,7 @@
   
   <dt>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img alt="MareMare's Activity Graph" width="480px" src="https://github-readme-activity-graph.cyclic.app/graph?username=MareMare&theme=github-compact">
+      <img alt="MareMare's Activity Graph" width="480px" src="https://github-readme-activity-graph.cyclic.app/graph?username=MareMare&theme=github-compact&height=600">
     </a>
   </dt>
 
