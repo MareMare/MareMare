@@ -8,7 +8,9 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MareMare's Top Languages" src="github-top-langs.svg"></a>
   </dt>
   <dt>
+    <!--
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="MareMare's Activity Graph" width="480px" src="github-activity-graph.svg"></a>
+    -->
   </dt>
   <dt>
     <a href="https://github.com/lowlighter/metrics"><img alt="MareMare's Metrics" src="github-metrics.svg"></a>
