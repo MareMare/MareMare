@@ -29,7 +29,6 @@ jobs:
         run: |
           curl -o github-stats.svg "https://github-readme-stats.vercel.app/api?username=MareMare&theme=github_dark&count_private=true&show_icons=true&hide=stars,contribs"
           curl -o github-top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=MareMare&theme=github_dark&layout=compact&langs_count=10"
-          curl -o github-activity-graph.svg "https://github-readme-activity-graph.cyclic.app/graph?username=MareMare&theme=github-compact&height=600"
       - name: 🔃 git diff # git diff --exit-code: 差分があった場合に終了コード1でエラー終了します。
         id: diff
         run: |
