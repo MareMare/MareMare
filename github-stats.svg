@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">MareMare's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Commits in 2023 : 28, Total PRs: 173, Total Issues: 24</desc>
+        <desc id="descId">Total Commits in 2023 : 27, Total PRs: 173, Total Issues: 24</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 88.70589935322846;
+        stroke-dashoffset: 89.40333361975968;
       }
     }
   
