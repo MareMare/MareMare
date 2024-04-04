@@ -2,8 +2,8 @@
 # and https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md
 name: 📊 Stats & Metrics
 on:
-  # Schedule updates (every 6:35 daily, JST)
-  schedule: [{cron: "35 21 * * *"}]
+  # Schedule updates (every 8:35 daily, JST)
+  schedule: [{cron: "35 23 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
