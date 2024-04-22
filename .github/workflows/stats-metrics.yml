@@ -33,8 +33,7 @@ jobs:
         id: diff
         run: |
           git add -N .
-          git diff --name-only --exit-code
-        continue-on-error: true
+          git diff --quiet || echo "HAS_CHANGES=true" >> $GITHUB_OUTPUT
       - name: 🚢 Push SVGs
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
@@ -42,7 +41,7 @@ jobs:
           git add .
           git commit -m "📝 Update SVGs - [skip ci]"
           git push
-        if: steps.diff.outcome == 'failure'
+        if: steps.diff.outputs.HAS_CHANGES == 'true'
 
       - name: 📊 GitHub Metrics
         uses: lowlighter/metrics@latest
