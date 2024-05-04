@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://user-images.githubusercontent.com/807378/199817367-3d6e33d6-c308-47ae-8334-54c2ea68a763.gif)
+
 <dl>
   <dt>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MareMare's GitHub stats" src="github-stats.svg"></a>
@@ -17,7 +19,6 @@
   </dt>
 </dl>
 
-<!-- ![](https://user-images.githubusercontent.com/807378/199817367-3d6e33d6-c308-47ae-8334-54c2ea68a763.gif) -->
 <!-- ![](https://komarev.com/ghpvc/?username=MareMare) -->
 <!-- 📊
 ### Hi there 👋
