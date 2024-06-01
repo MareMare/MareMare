@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/58c96c6c-e4e9-471c-9784-b873dde74383.svg)](https://wakatime.com/@58c96c6c-e4e9-471c-9784-b873dde74383) <sup>total time coded since Aug 4 2022</sup>
+
+
 <!--
 ![](https://user-images.githubusercontent.com/807378/199817367-3d6e33d6-c308-47ae-8334-54c2ea68a763.gif)
 -->
@@ -20,8 +23,6 @@
     <a href="https://github.com/lowlighter/metrics"><img alt="MareMare's Metrics" src="github-metrics.svg"></a>
   </dt>
 </dl>
-
-[![wakatime](https://wakatime.com/badge/user/58c96c6c-e4e9-471c-9784-b873dde74383.svg)](https://wakatime.com/@58c96c6c-e4e9-471c-9784-b873dde74383)
 
 <!-- ![](https://komarev.com/ghpvc/?username=MareMare) -->
 <!-- 📊
