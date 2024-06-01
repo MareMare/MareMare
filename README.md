@@ -21,6 +21,8 @@
   </dt>
 </dl>
 
+[![wakatime](https://wakatime.com/badge/user/58c96c6c-e4e9-471c-9784-b873dde74383.svg)](https://wakatime.com/@58c96c6c-e4e9-471c-9784-b873dde74383)
+
 <!-- ![](https://komarev.com/ghpvc/?username=MareMare) -->
 <!-- 📊
 ### Hi there 👋
