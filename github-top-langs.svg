@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="120.56"
+          width="120.63"
           height="8"
           fill="#178600"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="120.56"
+          x="120.63"
           y="0"
-          width="104.82"
+          width="104.77"
           height="8"
           fill="#f1e05a"
         />
@@ -148,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="225.38"
+          x="225.39999999999998"
           y="0"
-          width="11.14"
+          width="11.13"
           height="8"
           fill="#e34c26"
         />
@@ -158,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="236.51999999999998"
+          x="236.52999999999997"
           y="0"
-          width="19"
+          width="18.990000000000002"
           height="8"
           fill="#563d7c"
         />
@@ -170,7 +170,7 @@
           data-testid="lang-progress"
           x="245.51999999999998"
           y="0"
-          width="14.25"
+          width="14.24"
           height="8"
           fill="#867db1"
         />
@@ -178,7 +178,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.76999999999998"
+          x="249.76"
           y="0"
           width="10.23"
           height="8"
@@ -191,14 +191,14 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#178600" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C# 48.23%
+        C# 48.25%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 41.93%
+        JavaScript 41.91%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
