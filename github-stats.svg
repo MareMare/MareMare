@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">MareMare's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Commits in 2025 : 144, Total PRs: 209, Total Issues: 31</desc>
+        <desc id="descId">Total Commits in 2025 : 147, Total PRs: 211, Total Issues: 32</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 92.15202160546359;
+        stroke-dashoffset: 91.58200844108543;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >144</text>
+      >147</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >209</text>
+      >211</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >31</text>
+      >32</text>
     </g>
   </g>
     </svg>
