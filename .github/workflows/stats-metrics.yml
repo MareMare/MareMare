@@ -24,7 +24,7 @@ jobs:
       contents: write
     steps:
       - name: 🛒 Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       - name: ⬇️ Download SVGs
         run: |
           curl -o github-stats.svg "https://github-readme-stats.vercel.app/api?username=MareMare&theme=github_dark&number_format=long&count_private=true&show_icons=true&hide=stars,contribs"
