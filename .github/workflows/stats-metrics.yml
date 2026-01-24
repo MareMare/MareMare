@@ -13,10 +13,6 @@ jobs:
     steps:
       - name: 🎉 This workflow on ${{ github.repository }} was started by ${{ github.actor }}
         run: echo This workflow on ${{ github.repository }} was started by ${{ github.actor }}
-      - name: 📝 Dump GitHub context
-        env:
-          GITHUB_CONTEXT: ${{ toJson(github) }}
-        run: echo "$GITHUB_CONTEXT"
 
   readme-update:
     runs-on: ubuntu-latest
