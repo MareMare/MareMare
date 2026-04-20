@@ -20,11 +20,24 @@ jobs:
       contents: write
     steps:
       - name: 🛒 Checkout
-        uses: actions/checkout@v6
-      - name: ⬇️ Download SVGs
-        run: |
-          curl -o github-stats.svg "https://github-readme-stats.vercel.app/api?username=MareMare&theme=github_dark&number_format=long&count_private=true&show_icons=true&hide=stars,contribs"
-          curl -o github-top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=MareMare&theme=github_dark&layout=compact&langs_count=10"
+        uses: actions/checkout@v6.0.2
+
+      - name: 📊 Generate GitHub Stats Card
+        uses: readme-tools/github-readme-stats-action@v1.1.0
+        with:
+          card: stats
+          options: username=MareMare&theme=github_dark&number_format=long&count_private=true&show_icons=true&hide=stars,contribs
+          path: github-stats.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+      - name: 📈 Generate Top Languages Card
+        uses: readme-tools/github-readme-stats-action@v1.1.0
+        with:
+          card: top-langs
+          options: username=MareMare&theme=github_dark&layout=compact&langs_count=10
+          path: github-top-langs.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
       - name: 🔃 git diff # git diff --exit-code: 差分があった場合に終了コード1でエラー終了します。
         id: diff
         run: |
