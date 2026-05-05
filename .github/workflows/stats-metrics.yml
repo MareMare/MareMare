@@ -23,7 +23,7 @@ jobs:
         uses: actions/checkout@v6.0.2
 
       - name: 📊 Generate GitHub Stats Card
-        uses: readme-tools/github-readme-stats-action@v1.1.0
+        uses: readme-tools/github-readme-stats-action@v1.2.0
         with:
           card: stats
           options: username=MareMare&theme=github_dark&number_format=long&count_private=true&show_icons=true&hide=stars,contribs
@@ -31,7 +31,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
       - name: 📈 Generate Top Languages Card
-        uses: readme-tools/github-readme-stats-action@v1.1.0
+        uses: readme-tools/github-readme-stats-action@v1.2.0
         with:
           card: top-langs
           options: username=MareMare&theme=github_dark&layout=compact&langs_count=10
