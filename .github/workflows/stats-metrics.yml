@@ -20,7 +20,7 @@ jobs:
       contents: write
     steps:
       - name: 🛒 Checkout
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@v6.0.3
 
       - name: 📊 Generate GitHub Stats Card
         uses: readme-tools/github-readme-stats-action@v2.0.0
