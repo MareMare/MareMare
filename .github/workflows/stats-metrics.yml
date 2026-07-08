@@ -38,6 +38,13 @@ jobs:
           path: github-top-langs.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
+      - name: 🔥 Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@v1.7.0
+        with:
+          options: user=${{ github.repository_owner }}&theme=dark&hide_border=true&short_numbers=true
+          path: github-streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: 🔃 git diff # git diff --exit-code: 差分があった場合に終了コード1でエラー終了します。
         id: diff
         run: |
