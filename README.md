@@ -21,9 +21,10 @@
   <dt>
     <a href="https://github.com/lowlighter/metrics"><img alt="MareMare's Metrics" src="github-metrics.svg"></a>
   </dt>
+  <dt>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="MareMare's Streak" src="github-streak.svg"></a>
+  </dt>
 </dl>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MareMare&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
 <!-- ![](https://komarev.com/ghpvc/?username=MareMare) -->
 <!-- 📊
